@@ -4,3 +4,14 @@
 一般来说，事务是必须满足4个条件（ACID）：：原子性（Atomicity，或称不可分割性）、一致性（Consistency）、隔离性（Isolation，又称独立性）、持久性（Durability）。
 事务表就是支持事务的表，可以进行Transaction事务回滚操作，比如 InnoDB是一种数据库存储引擎。
 非事务表，不支持事务的表，目前我知道的只有使用MyISAM存储引擎的表。
+
+2、数据量单位------KB/MB/GB/TB/PB/EB/ZB/YB/BB
+1KB (Kilobyte 千字节)=1024B，
+1MB (Megabyte 兆字节 简称“兆”)        =1024KB，
+1GB (Gigabyte吉字节 又称“千兆”)       =1024MB，
+1TB (Trillionbyte 万亿字节 太字节)      =1024GB，
+1PB (Petabyte 千万亿字节 拍字节)      =1024TB，
+1EB (Exabyte 百亿亿字节 艾字节)       =1024PB，
+1ZB (Zettabyte十万亿亿字节 泽字节)   = 1024 EB,
+1YB (Yottabyte一亿亿亿字节 尧字节)   = 1024 ZB,
+1BB (Brontobyte一千亿亿亿字节)         = 1024 YB.
