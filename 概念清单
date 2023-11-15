@@ -15,3 +15,6 @@
 1ZB (Zettabyte十万亿亿字节 泽字节)   = 1024 EB,
 1YB (Yottabyte一亿亿亿字节 尧字节)   = 1024 ZB,
 1BB (Brontobyte一千亿亿亿字节)         = 1024 YB.
+
+3、B-Tree vs LSM-Tree
+https://tikv.org/deep-dive/key-value-engine/b-tree-vs-lsm/ 
